@@ -1,2 +1,2 @@
 # hello-world
-Begin stack
+brief introduction- only partially true at best. ;-)
